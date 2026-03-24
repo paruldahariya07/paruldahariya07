@@ -1,6 +1,11 @@
 # Parul Dahariya 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/parul-d-223ba620b)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:paruldahariya@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/paruldahariya07)
+
 
 ### M.Tech CSE @ Thapar Institute | AI/ML Engineer | Generative AI · Computer Vision · Biometric Security
+### B.Tech CSE @ Institute of Technical Education and Research - SOA
 
 [![Profile Views](https://komarev.com/ghpvc/?username=paruldahariya07&label=Profile%20views&color=e75480&style=flat)](https://github.com/paruldahariya07)
 
@@ -15,15 +20,6 @@
 - 💬 Ask me about **RAG, LangChain, FAISS, TensorFlow, PyTorch, Streamlit, FastAPI**
 - ☁️ Certified: **AWS Cloud Architecting** | **Microsoft Azure AI Fundamentals**
 - ⚡ Fun fact: **I built a fake news detector that jumped from 65% → 88% accuracy using LLMs + RAG!**
-
----
-
-### 📫 Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/parul-d-223ba620b)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:paruldahariya@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/paruldahariya07)
-
 ---
 
 ### 💼 Experience:
@@ -51,6 +47,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Machine Learning / AI**  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
