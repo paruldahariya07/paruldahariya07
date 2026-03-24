@@ -1,18 +1,9 @@
-# Hi, I'm Parul 👋
-
-### CS & Software Engineering Student | AI/ML Enthusiast | Building Intelligent Health & Vision Systems
-
+# Parul Dahariya
 [![Profile Views](https://komarev.com/ghpvc/?username=paruldahariya07&label=Profile%20views&color=e75480&style=flat)](https://github.com/paruldahariya07)
 
----
+### M.Tech Computer Science and  Engineering - Thapar Institute of Engineering & Technology
+### B.Tech Computer Science and  Engineering - Institute of Technical Education and Research - SOA
 
-- 🎓 Computer Science & Engineering student passionate about **AI, Machine Learning & Computer Vision**
-- 🧠 Building intelligent systems in **healthcare AI** — brain tumors, plant disease, multi-disease prediction
-- 🔭 Currently working on **AI-powered document understanding & medical diagnostics**
-- 🤝 Looking to collaborate on **ML research, open-source AI projects, and health-tech applications**
-- 🌱 Currently learning **Deep Learning architectures, LLMs, and MLOps**
-- 💬 Ask me about **Python, Machine Learning, Computer Vision, and Flask/Streamlit deployments**
-- ⚡ Fun fact: **I build AI that helps doctors see what the human eye might miss**
 
 ---
 
@@ -72,10 +63,4 @@
 
 ---
 
-### ✍️ Random Dev Quote
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-[![Visit Count](https://visitcount.itsvg.in/api?id=paruldahariya07&icon=0&color=6)](https://visitcount.itsvg.in)
+### ✍️ 
