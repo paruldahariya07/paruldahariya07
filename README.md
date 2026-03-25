@@ -4,7 +4,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/paruldahariya07)
 
 
-### M.Tech CSE @ Thapar Institute | AI/ML Engineer | Generative AI · Computer Vision · Biometric Security
+### M.Tech CSE @ Thapar Institute of Technology
 ### B.Tech CSE @ Institute of Technical Education and Research - SOA
 
 [![Profile Views](https://komarev.com/ghpvc/?username=paruldahariya07&label=Profile%20views&color=e75480&style=flat)](https://github.com/paruldahariya07)
